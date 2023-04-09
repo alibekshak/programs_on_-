@@ -7,7 +7,7 @@ typedef struct
     string name;
     string number;
 }
-person; // позваляет создать общий файл для всех переменных
+person; // позваляет создать общую структуру(structs) для всех переменных
 
 
 int main(void)
